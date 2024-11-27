@@ -1,0 +1,16 @@
+[
+	{
+		"value": 48,
+		"name": "DS Components",
+		"itemStyle": {
+			"color": "#007BFF"
+		}
+	},
+	{
+		"value": 52,
+		"name": "Non-DS Components",
+		"itemStyle": {
+			"color": "#96C9FF"
+		}
+	}
+]

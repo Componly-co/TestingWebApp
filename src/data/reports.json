@@ -1,0 +1,125 @@
+[
+	{
+		"date": "Nov-18-2024",
+		"time": "01-56 AM",
+		"source": "code",
+		"name": "repositoryName",
+		"type": "Scan",
+		"ds": "Design System",
+		"framework": "React",
+		"lib": "@mui/material",
+		"email": "email@workdomain.com",
+		"format": "json",
+		"data": [
+			{
+				"name": "Components",
+				"value": 465
+			},
+			{
+				"name": "@mui/material adoption",
+				"value": "89.6%"
+			},
+			{
+				"name": "Non-DS adoption",
+				"value": "10.54%"
+			}
+		]
+	},
+	{
+		"date": "Nov-18-2024",
+		"time": "01-56 AM",
+		"source": "code",
+		"name": "repositoryName",
+		"type": "Scan",
+		"ds": "Component",
+		"framework": "React",
+		"lib": "@mui/material",
+		"email": "email@workdomain.com",
+		"format": "json",
+		"data": [
+			{
+				"name": "Components",
+				"value": 465
+			},
+			{
+				"name": "@mui/material adoption",
+				"value": "89.6%"
+			},
+			{
+				"name": "Non-DS adoption",
+				"value": "10.54%"
+			}
+		]
+	},
+	{
+		"date": "Nov-18-2024",
+		"time": "01-56 AM",
+		"source": "code",
+		"name": "repositoryName",
+		"type": "Default Report",
+		"framework": "React",
+		"lib": "@mui/material",
+		"email": "email@workdomain.com",
+		"format": "json",
+		"data": [
+			{
+				"name": "Components",
+				"value": 465
+			},
+			{
+				"name": "@mui/material adoption",
+				"value": "89.6%"
+			},
+			{
+				"name": "Non-DS adoption",
+				"value": "10.54%"
+			}
+		]
+	},
+	{
+		"date": "Nov-18-2024",
+		"time": "01-56 AM",
+		"source": "code",
+		"name": "repositoryName",
+		"type": "Default Report",
+		"framework": "React",
+		"lib": "@mui/material",
+		"email": "email@workdomain.com",
+		"format": "json",
+		"data": [
+			{
+				"name": "Components",
+				"value": 465
+			},
+			{
+				"name": "@mui/material adoption",
+				"value": "89.6%"
+			},
+			{
+				"name": "Non-DS adoption",
+				"value": "10.54%"
+			}
+		]
+	},
+	{
+		"date": "Nov-18-2024",
+		"time": "01-56 AM",
+		"source": "figma",
+		"name": "FileName",
+		"type": "Time Report",
+		"framework": "React",
+		"lib": "@mui/material",
+		"email": "email@workdomain.com",
+		"format": "Report",
+		"data": [
+			{
+				"name": "@mui/material adoption",
+				"value": "89.6%"
+			},
+			{
+				"name": "Non-DS adoption",
+				"value": "10.54%"
+			}
+		]
+	}
+]

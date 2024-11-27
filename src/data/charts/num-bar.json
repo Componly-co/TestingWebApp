@@ -1,0 +1,15 @@
+{
+	"xAxis": ["Jan", "Feb", "Mar", "Apr", "May"],
+	"series": [
+		{
+			"name": "Core",
+			"data": [40, 50, 60, 30, 70],
+			"color": "#ECEFF3"
+		},
+		{
+			"name": "Custom",
+			"data": [60, 50, 40, 70, 30],
+			"color": "#6CE9A6"
+		}
+	]
+}

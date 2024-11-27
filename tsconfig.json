@@ -1,0 +1,28 @@
+{
+	"compilerOptions": {
+		"baseUrl": "src",
+		"paths": {
+			"images/*": ["public/images/*"]
+		},
+		"target": "ESNext",
+		"lib": ["dom", "dom.iterable", "esnext"],
+		"types": ["vite/client"],
+		"allowJs": true,
+		"skipLibCheck": true,
+		"esModuleInterop": false,
+		"noImplicitAny": false,
+		"allowSyntheticDefaultImports": true,
+		"strict": false,
+		"forceConsistentCasingInFileNames": true,
+		"noFallthroughCasesInSwitch": true,
+		"module": "ESNext",
+		"moduleResolution": "node",
+		"resolveJsonModule": true,
+		"isolatedModules": true,
+		"noEmit": true,
+		"jsx": "react-jsx",
+		"noEmitOnError": true
+	},
+	"include": ["src", "**/*.ts", "**/*.tsx"],
+	"exclude": ["node_modules"]
+}

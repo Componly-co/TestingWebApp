@@ -1,0 +1,9 @@
+{
+	"xAxis": ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sept", "Oct", "Nov", "Dec"],
+	"series": [
+		{
+			"name": "Design System Usage",
+			"data": [42, 50, 46, 43, 51, 62, 68, 63, 75, 70, 80, 85]
+		}
+	]
+}

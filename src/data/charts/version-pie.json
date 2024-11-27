@@ -1,0 +1,16 @@
+[
+	{
+		"value": 48,
+		"name": "@mui/material^5.11: 48%",
+		"itemStyle": {
+			"color": "#007BFF"
+		}
+	},
+	{
+		"value": 52,
+		"name": "@mui/material^5.12: 52%",
+		"itemStyle": {
+			"color": "#96C9FF"
+		}
+	}
+]
